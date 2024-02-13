@@ -4,7 +4,7 @@
 
 int main() 
 { 
-	char name[20]; 
+	char name[30]; 
 	printf("Enter name: "); 
 
 	// user input will be taken here 
